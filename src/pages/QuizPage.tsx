@@ -32,10 +32,6 @@ export default function Quiz() {
     }
   }, [status, navigate])
 
-  // useEffect(() => {
-  //   console.log("Quiz status:", status)
-  // }, [status])
-
   useEffect(() => {
     resumeQuiz()
   }, [resumeQuiz])
