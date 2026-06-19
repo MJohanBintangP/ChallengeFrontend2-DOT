@@ -39,7 +39,7 @@ export function LoginForm({
               </div>
               <span className="sr-only">Acme Inc.</span>
             </a>
-            <h1 className="text-xl font-bold">Welcome to Acme Inc.</h1>
+            <h1 className="text-xl font-bold">Login Page</h1>
           </div>
           <Field>
             <FieldLabel htmlFor="username">Username</FieldLabel>
